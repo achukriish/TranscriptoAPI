@@ -1,0 +1,16 @@
+Tamil                           ta-IN
+English (US)                    en-US
+English (UK)                    en-GB
+Hindi                           hi-IN
+Spanish (Spain)                 es-ES
+French                          fr-FR
+German                          de-DE 
+Chinese (Mandarin Simplified)   zh-CN 
+Japanese                        ja-JP 
+Korean                          ko-KR 
+Italian                         it-IT 
+Russian                         ru-RU 
+Portuguese (Brazil)             pt-BR 
+Arabic                          ar-SA 
+Dutch                           nl-NL 
+Turkish                         tr-TR 
